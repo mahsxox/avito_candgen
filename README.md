@@ -8,8 +8,8 @@
 | Что                                                                             | Где |
 |---------------------------------------------------------------------------------|---|
 | Код                                                                             | этот репозиторий |
-| Готовая модель `models.zip` (323 МБ)                                            | `https://disk.yandex.com/d/v-QYT7mDO6vgNw` |
-| Готовые артефакты `artifacts.zip` (357 МБ)                                      | `https://disk.yandex.com/d/ZruFisfGcOQPzQ` |
+| Готовая модель `models.zip` (323 МБ)                                            | [скачать с Яндекс Диска](https://disk.yandex.com/d/v-QYT7mDO6vgNw) |
+| Готовые артефакты `artifacts.zip` (357 МБ)                                      | [скачать с Яндекс Диска](https://disk.yandex.com/d/ZruFisfGcOQPzQ) |
 | Данные (`train.parquet`, `benchmark_queries.parquet`, `benchmark_items.parquet`) | из условия задачи, в папку `data/` |
 
 ---
