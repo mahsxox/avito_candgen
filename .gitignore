@@ -1,0 +1,17 @@
+data/
+models/
+artifacts/
+artifacts_v7/
+artifacts_to_zip/
+check_*/
+*.zip
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.idea/
+.vscode/
+answer.csv
+answer_test.csv
+test_load.py
